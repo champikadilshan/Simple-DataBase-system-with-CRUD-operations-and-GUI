@@ -1,0 +1,11 @@
+C:\Users\dilshan\source\repos\DB_System\DB_System\bin\Debug\DB_System.exe.config
+C:\Users\dilshan\source\repos\DB_System\DB_System\bin\Debug\DB_System.exe
+C:\Users\dilshan\source\repos\DB_System\DB_System\bin\Debug\DB_System.pdb
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.csproj.AssemblyReference.cache
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.Form1.resources
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.Properties.Resources.resources
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.csproj.GenerateResource.cache
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.csproj.CoreCompileInputs.cache
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.exe
+C:\Users\dilshan\source\repos\DB_System\DB_System\obj\Debug\DB_System.pdb
